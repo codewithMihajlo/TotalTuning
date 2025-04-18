@@ -1,0 +1,30 @@
+th
+{
+    width: auto;
+    text-align: center;
+}
+.table1div
+{
+    margin: auto;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    border-radius: 30px;
+    
+}
+.table1
+{
+    margin: auto;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+tr
+{
+    text-align: center;
+    height: 35px;
+    border-bottom: 1px solid rgba(189, 189, 189, 0.726);
+}
+.forma
+{
+    margin-bottom: 800px;
+}

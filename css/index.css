@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    display: block;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    background: #f8f9fa;
+}
+
+
+
+
+#cards3 {
+    margin: auto;
+    display: block;
+}
+.flexdisplay
+{
+    display: flex;
+    margin: auto;
+    
+}
+
+
+#cardimage
+{
+    width: 980px;
+    height: 224px;
+}
+
+.cards-group
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card
+{
+    height: auto;
+    width: auto;
+}
+.card_custom
+{
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.jumbotron
+{
+    width: 1284px;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: #141d21;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+
+
+
+.wrapper1
+{
+    display: block;
+    margin: auto;
+}
+
+

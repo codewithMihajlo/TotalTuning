@@ -1,0 +1,25 @@
+.wrapper-katalog
+{
+    background-color:white ;
+    width: 1335px;
+    margin: auto;
+    margin-bottom: 1000px;
+}
+
+.catalog-row
+{
+    display: flex;
+}
+.card
+{
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover
+{
+    transform: scale(0.95);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+
